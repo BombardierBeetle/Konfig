@@ -1,0 +1,14 @@
+127.0.0.1
+/^https?://192\.168\.0\.\d+//
+/^https?://10\.0\.\d+\.\d+//.
+about-scheme
+chrome-extension-scheme
+cloudron.io
+github.com
+google.com
+hackmd.io
+moz-extension-scheme
+opera-scheme
+vivaldi-scheme
+www.draw.io
+wyciwyg-scheme

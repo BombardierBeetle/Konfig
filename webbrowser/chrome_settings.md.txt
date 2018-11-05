@@ -1,0 +1,21 @@
+# chrome_settings
+
+デフォルトでpixel等のGoogle商材の広告が見れるブラウザ
+
+
+
+### Platform
+
+
+
+### configure
+
+
+
+
+### extension
+
+
+
+
+### et al:

@@ -1,0 +1,28 @@
+# vivaldi_settings
+
+タブをサイドバーに並べられる唯一のブラウザ
+
+
+2018年現在、MacOSの正式版は、キーを"Chrome Safe Storage"に保持しようとする
+将来移行する？ これのお陰でキーチェーンの管理が厄介
+
+
+
+https://forum.vivaldi.net/topic/2385/what-is-the-chrome-safe-storage/20
+
+
+
+### Platform
+
+
+### configure
+
+
+
+
+### extension
+
+
+
+
+### et al:

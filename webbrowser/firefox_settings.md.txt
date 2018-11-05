@@ -1,0 +1,22 @@
+# firefox_settings
+
+安定株扱いだがなんだかんだ積極的に外部アドオンのバンドルや実験を行ってる
+
+
+
+### Platform
+
+
+
+### configure
+
+
+
+
+### extension
+
+
+
+
+### et al:
+

@@ -1,0 +1,22 @@
+# ADBlockその他
+
+
+## カスタムフィルター
+
+>GDPRで同意を求めてくるやつが邪魔
+
+##### I don't care about cookies
+    https://www.i-dont-care-about-cookies.eu/
+
+    list
+    https://www.i-dont-care-about-cookies.eu/abp/
+
+
+
+##### GAFAのGとF対策
+じゃまなリスト等が消えるっぽい
+
+[Customize YouTube with Adblock Plus](https://youtube.adblockplus.me/en/)
+[Customize Facebook with Adblock Plus](https://facebook.adblockplus.me/en/)
+
+

@@ -1,0 +1,17 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+    "telemetry.enableTelemetry": false,
+//configure to using wslgit
+    "git.path": "C:\\<yourpath>\\wslgit.exe",
+    "workbench.startupEditor": "newUntitledFile",
+    "git.autofetch": true,
+
+    "files.associations":
+    {
+        "*.md.txt": "markdown",
+        "*.forti.conf": "fortigate",
+        ".ios.conf":"cisco",
+        ".junos.conf":"junos"
+    }
+}

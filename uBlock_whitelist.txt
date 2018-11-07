@@ -2,13 +2,17 @@
 /^https?://192\.168\.0\.\d+//
 /^https?://10\.0\.\d+\.\d+//.
 about-scheme
+aws.amazon.com
 chrome-extension-scheme
 cloudron.io
 github.com
 google.com
 hackmd.io
 moz-extension-scheme
+notion.so
 opera-scheme
+trello.com
 vivaldi-scheme
 www.draw.io
+www.pushbullet.com
 wyciwyg-scheme

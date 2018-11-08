@@ -11,6 +11,7 @@ hackmd.io
 moz-extension-scheme
 notion.so
 opera-scheme
+paypal.com
 trello.com
 vivaldi-scheme
 www.draw.io

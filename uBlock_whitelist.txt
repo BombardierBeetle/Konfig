@@ -1,6 +1,6 @@
 127.0.0.1
 /^https?://192\.168\.0\.\d+//
-/^https?://10\.0\.\d+\.\d+//.
+/^https?://10\.0\.\d+\.\d+//
 about-scheme
 aws.amazon.com
 chrome-extension-scheme

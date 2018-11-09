@@ -1,6 +1,6 @@
 # chrome_settings
 
-デフォルトでpixel等のGoogle商材の広告が見れるブラウザ
+デフォルトで新タブにpixel等のGoogle商材の広告が見れるブラウザ
 
 
 
@@ -10,6 +10,22 @@
 
 ### configure
 
+キャッシュ設定
+
+default:
+%LOCALAPPDATA%\Google\Chrome\User Data\Default\Cache
+
+手法は二種類 不便。
+
+##### 手法その１ 起動オプション
+ショートカットの「リンク先」などに以下を追加
+--disk-cache-dir="＜保存先フォルダのフルパス＞"
+
+
+##### 手法その2 グループポリシー
+めんどくさいので参考リンクを参照
+
+参考:[Google Chromeのキャッシュの保存先フォルダを変更する：Google Chrome完全ガイド - ＠IT](http://www.atmarkit.co.jp/ait/articles/1612/09/news013.html)
 
 
 

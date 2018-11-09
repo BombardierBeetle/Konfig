@@ -1,6 +1,7 @@
 # firefox_settings
 
-安定株扱いだがなんだかんだ積極的に外部アドオンのバンドルや実験を行ってる
+安定株扱い
+なんだかんだ積極的に外部アドオンのバンドルやユーザー利用した実験を行っている
 
 
 
@@ -10,11 +11,22 @@
 
 ### configure
 
+キャッシュ保存先の指定
+- about:configを開く
+- 「新規作成」→「文字列」
+    - 設定名を"browser.cache.disk.parent_directory"を指定
+    - 文字列にはキャッシュ用ディレクトリのパス Z:\Temp 等
+
+参考:
+[Firefox のキャッシュ保存先の変更方法](https://synclogue-navi.com/firefox-cache-change)
 
 
+場合によってはキャッシュ容量等もいじる
 
 ### extension
 
+[ツリー型タブ (Tree Style Tab) – Get this Extension for 🦊 Firefox (ja)](https://addons.mozilla.org/ja/firefox/addon/tree-style-tab/)
+完全ではないが縦に並べられる
 
 
 

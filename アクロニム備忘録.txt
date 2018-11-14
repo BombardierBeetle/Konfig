@@ -4,6 +4,9 @@
 toDo:後で適切な場所に移行
 
 
+NSFW
+    Not Suitable For Work/Not Safe For Work
+
 FIY
     for your information
 
@@ -21,9 +24,13 @@ TL;DR
     too long; didn’t read.
     >長すぎる;読んでない、の意味。(長い)文章を読んでないというのを表明するのに使う。あるいは、長すぎる文章の要約を指して使うことも。
 
+ELI5
+    Explain Like I'm 5
+    私を5歳児だと思って説明して
 
 
-- 論文とかによく出る奴
+
+##### 論文とかによく出る奴
 
 et al.
     ラテン語の「et alii」のようで，意味は「その他の人・もの」

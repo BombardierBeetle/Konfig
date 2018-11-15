@@ -10,6 +10,32 @@ NSFW
 FIY
     for your information
 
+LGTM
+    Looks good to me
+
+AFAIK
+    As Far As I Know
+    俺の知る限りでは
+
+SSIA
+    Subject Says It All
+
+TBD
+    To Be Determined
+    あとで決める
+
+IMO 
+    In My Opinion
+    Humbleを加えて、IMHOになる場合もあるらしい
+
+WFM
+    Works For Me
+    俺の環境では動く
+
+TIA
+    Thanks In Advance
+    どうぞよろしくお願いします
+
 ASAP
     As Soon As Possible
 
@@ -19,6 +45,8 @@ WYSIWYG
 TL;DR
     too long; didn’t read.
     >長すぎる;読んでない、の意味。(長い)文章を読んでないというのを表明するのに使う。あるいは、長すぎる文章の要約を指して使うことも。
+
+
 
 
 ### TPOが重要な
@@ -57,4 +85,3 @@ e.g.
 
 c.f
     cf, cf. - ラテン語で「比較せよ」「参照せよ」を意味する命令形 confer の略。
-    

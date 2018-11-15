@@ -16,19 +16,33 @@ ASAP
 WYSIWYG
     What You See Is What You Get
 
-RTFM
-    Read The *Fine* Manual
-
-
 TL;DR
     too long; didn’t read.
     >長すぎる;読んでない、の意味。(長い)文章を読んでないというのを表明するのに使う。あるいは、長すぎる文章の要約を指して使うことも。
+
+
+### TPOが重要な
+
+KISS
+    Keep it simple, stupid.
+    よく言及される原則。上記が元ネタとされるがSSの部分の派生も多い
+    Keep it short and simple/smart/straight/small/sweet/sequential/straightforward.
 
 ELI5
     Explain Like I'm 5
     私を5歳児だと思って説明して
 
+RTFM
+    Read The *Fine* Manual
 
+UTSL
+    Use the Source, Luke
+    Star Warsネタ。UTSLだとあまり通じない
+
+GIYF
+    Google Is Your Friend
+    訳語はおそらくググレカス。
+    SEO業者の跋扈でGoogle検索は昔ほどフレンドリーではなくなったが自分で調べる態度は大事にしたい
 
 ##### 論文とかによく出る奴
 

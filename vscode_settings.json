@@ -11,7 +11,8 @@
     {
         "*.md.txt": "markdown",
         "*.forti.conf": "fortigate",
-        ".ios.conf":"cisco",
-        ".junos.conf":"junos"
+        "*.ios.conf":"cisco",
+        "*.junos.conf":"junos",
+        "*.ymh.conf":"yamahart"
     }
 }

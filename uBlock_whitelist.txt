@@ -6,6 +6,7 @@ aws.amazon.com
 chrome-extension-scheme
 cloudron.io
 github.com
+gitlab.com
 google.com
 hackmd.io
 moz-extension-scheme

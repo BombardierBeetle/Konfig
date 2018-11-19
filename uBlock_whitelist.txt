@@ -12,6 +12,7 @@ moz-extension-scheme
 notion.so
 opera-scheme
 paypal.com
+translate.google.co.jp
 trello.com
 vivaldi-scheme
 www.draw.io

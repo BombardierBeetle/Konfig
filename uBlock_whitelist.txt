@@ -5,6 +5,7 @@ about-scheme
 aws.amazon.com
 chrome-extension-scheme
 cloudron.io
+docker.com
 github.com
 gitlab.com
 google.com

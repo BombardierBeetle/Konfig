@@ -47,14 +47,18 @@ TL;DR
     >長すぎる;読んでない、の意味。(長い)文章を読んでないというのを表明するのに使う。あるいは、長すぎる文章の要約を指して使うことも。
 
 
-
-
 ### TPOが重要な
 
-KISS
+KISS原則
     Keep it simple, stupid.
     よく言及される原則。上記が元ネタとされるがSSの部分の派生も多い
-    Keep it short and simple/smart/straight/small/sweet/sequential/straightforward.
+    Keep it short and [simple|smart|straight|small|sweet|sequential|straightforward].
+
+DRY原則
+    Don’t Repeat Your Self
+    かなり有名。作業の自動化、設計ロジックの抽象化等でムダを避ける
+    >DRY原則は、構造、ロジック、プロセス、機能などあらゆる面で、開発者がシンプルなアプリケーションを作る上での基本的なな指針です。
+    開発スピード優先、機能の試行錯誤のため、あえてDRYを無視する戦略もあるらしいがかなり特殊な例なので参考になひゃならない
 
 ELI5
     Explain Like I'm 5

@@ -11,7 +11,7 @@ bee
 cat
 dad
 
-##4-moji
+## 4-moji
 
 baba
 beef
@@ -22,7 +22,7 @@ cafe
 face
 feed
 
-##using number(l33t)
+## using number(l33t)
 
 15  :is
 *a11*

@@ -6,6 +6,7 @@ aws.amazon.com
 chrome-extension-scheme
 cloudron.io
 docker.com
+etc-meisai.jp
 github.com
 gitlab.com
 google.com
